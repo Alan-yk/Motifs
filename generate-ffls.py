@@ -15,7 +15,7 @@ fname = os.path.splitext(sys.argv[1])[0]
 outFileFFLs = open(fname + '-FFLs.txt', "w") # Output file
 
 G = nx.DiGraph()
-ffl_counter = 0 # Counts number of FFLs, # Counts number of Bifans
+ffl_counter = 0 # Counts number of FFLs
 num_nodes = 0
 
 for row in file(inFile):
