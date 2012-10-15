@@ -1,0 +1,11 @@
+Motifs are critical to the performance of Gene Regulatory Networks. Their features can be crucial to other complex networks as well. This project is an effort to gather all scripts related to motif discovery in a directed network.
+
+In all 13 types of 3-node motifs, FFLs and Bifans are proven to be highly occurring.
+
+Platform: Linux
+Build: 32-bit Ubuntu 12.04
+
+Python programming language will be used to implement the following:
+
+1) Find Feed-forward loop (FFL) motifs in a directed network
+2) Find Bifan motifs in a directed network
